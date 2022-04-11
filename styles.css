@@ -1,0 +1,47 @@
+* {
+    background-color: yellow;
+    font-family: "verdana" "helvetica"
+}
+
+h1 {
+    color: black;
+    background-color: gold;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+.image {
+    height: 500px;
+    width: auto;
+    text-align: center;
+}
+
+p {
+    font-size: larger;
+    font-weight: 600;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    background-color: gold;
+}
+
+ul {
+    font-size: larger;
+    font-weight: 600;
+}
+
+ol{
+    font-size: larger;
+    font-weight: 600;
+}
+
+button {
+    text-align: center;
+    font-weight: Bold;
+    background-color: gold;
+}
